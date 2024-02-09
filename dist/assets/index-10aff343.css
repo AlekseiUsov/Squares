@@ -1,0 +1,1 @@
+#root{margin:0 auto;padding:2rem;text-align:center}.list{list-style:none;display:grid;justify-content:center;grid-template-columns:repeat(10,100px);gap:10px}.element{transition:all .5s ease-out;cursor:pointer;display:flex;align-items:center;justify-content:center;width:30px;height:30px}
